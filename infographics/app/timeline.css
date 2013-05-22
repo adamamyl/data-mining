@@ -1,0 +1,134 @@
+/* CSS style for the Timeline plugin */
+
+.timeline-textformat {
+    display:table-cell;
+    vertical-align:middle;
+    text-align:center;
+    font-size:100%;
+}
+
+.timeline-container {
+    height:100%;
+    margin:0 auto;
+}
+
+.timeline-circles {
+    position: relative;
+    display:inline-block;
+    vertical-align:top;
+    cursor:pointer;
+    -webkit-transition: all .4s ease-in;
+    -moz-transition: all .4s ease-in;
+    -ms-transition: all .4s ease-in;
+    -o-transition: all .4s ease-in;
+    transition: all .4s ease-in;
+}
+
+.timeline-textformat {
+    -webkit-transition: all .4s ease-in;
+    -moz-transition: all .4s ease-in;
+    -ms-transition: all .4s ease-in;
+    -o-transition: all .4s ease-in;
+    transition: all .4s ease-in;
+}
+
+.timeline-circles:hover {
+    -webkit-transform: scale(1.08);
+    -webkit-transform-origin: 50% 50%;
+    -moz-transform: scale(1.08);
+    -moz-transform-origin: 50% 50%;
+    -o-transform: scale(1.08);
+    -o-transform-origin: 50% 50%;
+    -ms-transform: scale(1.08);
+    -ms-transform-origin: 50% 50%;
+    transform: scale(1.08);
+    transform-origin: 50% 50%;
+}
+		
+.time-line-href {
+    position: relative;
+    top: 1px;
+    font-size: 22px;
+    text-decoration: none;
+    height: 16px;
+    width:15px;
+    padding: 2px;
+    display: inline-block;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    border-radius: 41px;
+    background:#111111;
+    background-color:#313140;
+    background-color:rgba(49,49,64,1);
+    color:#222;
+    font-family: 'BebasNeue';
+    
+}
+    
+.time-line-href span {
+    position:relative;
+    top:-42px;
+    left:-12px;
+}
+
+.time-line-circle {
+    width: 100px;
+    height: 40px;
+    text-align: center;
+    float: left;
+    position: relative;
+    top:-12px;
+    color:#000;
+}
+
+#timeline-line {
+    height:1px;
+    background:#000;
+}
+
+.circleLine {
+    width:15px;
+    height:16px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    position:relative;
+    
+    opacity:0;
+    background:#fff;
+}
+
+#timeline-outputtext {
+    width: 235px;
+    height: auto;
+    font-size: 25px;
+    position: absolute;
+    background: #fff;
+    background: rgba(255,255,255, 0.9);
+    top: 260px;
+    padding: 30px 20px 30px 20px;
+}
+        
+#timeline-outputtext span {
+    color: #4B6EB2;
+    text-transform: uppercase;
+    line-height: 1.2em;
+    display: block;
+}
+
+#timeline-outputtext h1 {
+    text-transform: uppercase;
+    font-size: 25px;
+    line-height: 1.2em;
+    margin: 0 0 10px 0;
+    display: block;
+    text-align:left;
+}
+
+#timeline-outputtext p {
+    font-size: 16px;
+    line-height: 1.3em;
+    text-align: justify;
+    float: left;
+}
+    

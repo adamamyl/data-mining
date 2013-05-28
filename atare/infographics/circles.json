@@ -1,0 +1,651 @@
+{"numyears":"14",
+"direction":"right","width":"800","height":"400",
+"year1":{"name":"1999","numcirc":"6","amount":724400000000,
+"circ1":{
+	"name":"Primary Health Clinics",
+	"circsize":"90",
+	"textsize":"14",
+	"circcolor":"#20CCAC",
+	"textcolor":"#FFF"
+	},
+"circ2":{
+	"name":"Classrooms",
+	"circsize":"50",
+	"textsize":"14",
+	"circcolor":"#730000",
+	"textcolor":"#FFF"
+},
+"circ3":{
+	"name":"Police Stations",
+	"circsize":"50",
+	"textsize":"14",
+	"circcolor":"#DA8D00",
+	"textcolor":"#FFF"
+	},
+"circ4":{
+		"name":"Fertilizer",
+		"circsize":"80",
+		"textsize":"14",
+		"circcolor":"#C83729",
+		"textcolor":"#FFF"
+		},
+"circ5":{
+	"name":"Solar Powered Borehole",
+	"circsize":"60",
+	"textsize":"14",
+	"circcolor":"#FF7926",
+	"textcolor":"#FFF"
+	},
+"circ6":{
+	"name":"Vocational Centers",
+	"circsize":"50",
+	"textsize":"14",
+	"circcolor":"#FA7095",
+	"textcolor":"#FFF"
+	}
+},
+
+
+
+
+"year2":{"name":"2000","numcirc":"6","amount":1591700000000,
+"circ1":{
+	"name":"Primary Health Clinics",
+	"circsize":"70",
+	"textsize":"14",
+	"circcolor":"#af6e12",
+	"textcolor":"#FFF"
+	},
+"circ2":{
+	"name":"Classrooms",
+	"circsize":"45",
+	"textsize":"14",
+	"circcolor":"#afef25",
+	"textcolor":"#FFF"
+},
+"circ3":{
+	"name":"Police Stations",
+	"circsize":"65",
+	"textsize":"14",
+	"circcolor":"#e3cb04",
+	"textcolor":"#FFF"
+	},
+"circ4":{
+		"name":"Fertilizer",
+		"circsize":"90",
+		"textsize":"14",
+		"circcolor":"#f07363",
+		"textcolor":"#FFF"
+		},
+"circ5":{
+	"name":"Solar Powered Borehole",
+	"circsize":"80",
+	"textsize":"14",
+	"circcolor":"#395685",
+	"textcolor":"#FFF"
+	},
+"circ6":{
+	"name":"Vocational Centers",
+	"circsize":"50",
+	"textsize":"14",
+	"circcolor":"#21b597",
+	"textcolor":"#FFF"
+	}
+},
+
+
+"year3":{"name":"2001","numcirc":"6","amount":1707600000000,
+"circ1":{
+	"name":"Primary Health Clinics",
+	"circsize":"65",
+	"textsize":"14",
+	"circcolor":"#6D00D9",
+	"textcolor":"#FFF"
+	},
+"circ2":{
+	"name":"Classrooms",
+	"circsize":"80",
+	"textsize":"14",
+	"circcolor":"#A744d9",
+	"textcolor":"#FFF"
+},
+"circ3":{
+	"name":"Police Stations",
+	"circsize":"55",
+	"textsize":"14",
+	"circcolor":"#e77ed9",
+	"textcolor":"#FFF"
+	},
+"circ4":{
+		"name":"Fertilizer",
+		"circsize":"75",
+		"textsize":"14",
+		"circcolor":"#d53c64",
+		"textcolor":"#FFF"
+		},
+"circ5":{
+	"name":"Solar Powered Borehole",
+	"circsize":"80",
+	"textsize":"17",
+	"circcolor":"#dea00b",
+	"textcolor":"#FFF"
+	},
+"circ6":{
+	"name":"Vocational Centers",
+	"circsize":"55",
+	"textsize":"14",
+	"circcolor":"#941609",
+	"textcolor":"#FFF"
+	}
+},
+
+"year4":{"name":"2002","numcirc":"6","amount":1230900000000,
+"circ1":{
+	"name":"Primary Health Clinics",
+	"circsize":"75",
+	"textsize":"14",
+	"circcolor":" #0fcf65",
+	"textcolor":"#FFF"
+	},
+"circ2":{
+	"name":"Classrooms",
+	"circsize":"60",
+	"textsize":"14",
+	"circcolor":"#e51c5e",
+	"textcolor":"#FFF"
+},
+"circ3":{
+	"name":"Police Stations",
+	"circsize":"85",
+	"textsize":"14",
+	"circcolor":" #cf0fbf",
+	"textcolor":"#FFF"
+	},
+"circ4":{
+		"name":"Fertilizer",
+		"circsize":"55",
+		"textsize":"14",
+		"circcolor":"#0f65cf",
+		"textcolor":"#FFF"
+		},
+"circ5":{
+	"name":"Solar Powered Borehole",
+	"circsize":"90",
+	"textsize":"14",
+	"circcolor":"#cf0fec",
+	"textcolor":"#FFF"
+	},
+"circ6":{
+	"name":"Vocational Centers",
+	"circsize":"50",
+	"textsize":"14",
+	"circcolor":" #2977a4 ",
+	"textcolor":"#FFF"
+	}
+},
+
+
+"year5":{"name":"2003","numcirc":"6","amount":2074300000000,
+"circ1":{
+	"name":"Primary Health Clinics",
+	"circsize":"75",
+	"textsize":"14",
+	"circcolor":"#e51c5e",
+	"textcolor":"#FFF"
+	},
+"circ2":{
+	"name":"Classrooms",
+	"circsize":"60",
+	"textsize":"14",
+	"circcolor":"#0fcf65",
+	"textcolor":"#FFF"
+},
+"circ3":{
+	"name":"Police Stations",
+	"circsize":"85",
+	"textsize":"14",
+	"circcolor":"#0f65cf",
+	"textcolor":"#FFF"
+	},
+"circ4":{
+		"name":"Fertilizer",
+		"circsize":"55",
+		"textsize":"14",
+		"circcolor":"#cf0fbf",
+		"textcolor":"#FFF"
+		},
+"circ5":{
+	"name":"Solar Powered Borehole",
+	"circsize":"90",
+	"textsize":"14",
+	"circcolor":"#2977a4",
+	"textcolor":"#FFF"
+	},
+"circ6":{
+	"name":"Vocational Centers",
+	"circsize":"50",
+	"textsize":"14",
+	"circcolor":"#cf0fec",
+	"textcolor":"#FFF"
+	}
+},
+
+
+"year6":{"name":"2004","numcirc":"6","amount":3354800000000,
+"circ1":{
+	"name":"Primary Health Clinics",
+	"circsize":"75",
+	"textsize":"14",
+	"circcolor":"#e51c5e",
+	"textcolor":"#FFF"
+	},
+"circ2":{
+	"name":"Classrooms",
+	"circsize":"60",
+	"textsize":"14",
+	"circcolor":"#0fcf65",
+	"textcolor":"#FFF"
+},
+"circ3":{
+	"name":"Police Stations",
+	"circsize":"85",
+	"textsize":"14",
+	"circcolor":"#0f65cf",
+	"textcolor":"#FFF"
+	},
+"circ4":{
+		"name":"Fertilizer",
+		"circsize":"55",
+		"textsize":"14",
+		"circcolor":"#cf0fbf",
+		"textcolor":"#FFF"
+		},
+"circ5":{
+	"name":"Solar Powered Borehole",
+	"circsize":"90",
+	"textsize":"14",
+	"circcolor":"#2977a4",
+	"textcolor":"#FFF"
+	},
+"circ6":{
+	"name":"Vocational Centers",
+	"circsize":"50",
+	"textsize":"14",
+	"circcolor":"#cf0fec",
+	"textcolor":"#FFF"
+	}
+},
+
+
+"year7":{"name":"2005","numcirc":"6","amount":4762400000000,
+"circ1":{
+	"name":"Primary Health Clinics",
+	"circsize":"75",
+	"textsize":"14",
+	"circcolor":"#e51c5e",
+	"textcolor":"#FFF"
+	},
+"circ2":{
+	"name":"Classrooms",
+	"circsize":"60",
+	"textsize":"14",
+	"circcolor":"#0fcf65",
+	"textcolor":"#FFF"
+},
+"circ3":{
+	"name":"Police Stations",
+	"circsize":"85",
+	"textsize":"14",
+	"circcolor":"#0f65cf",
+	"textcolor":"#FFF"
+	},
+"circ4":{
+		"name":"Fertilizer",
+		"circsize":"55",
+		"textsize":"14",
+		"circcolor":"#cf0fbf",
+		"textcolor":"#FFF"
+		},
+"circ5":{
+	"name":"Solar Powered Borehole",
+	"circsize":"90",
+	"textsize":"14",
+	"circcolor":"#2977a4",
+	"textcolor":"#FFF"
+	},
+"circ6":{
+	"name":"Vocational Centers",
+	"circsize":"50",
+	"textsize":"14",
+	"circcolor":"#cf0fec",
+	"textcolor":"#FFF"
+	}
+},
+
+
+
+
+"year8":{"name":"2006","numcirc":"6","amount":5287600000000,
+"circ1":{
+	"name":"Primary Health Clinics",
+	"circsize":"75",
+	"textsize":"14",
+	"circcolor":"#e51c5e",
+	"textcolor":"#FFF"
+	},
+"circ2":{
+	"name":"Classrooms",
+	"circsize":"60",
+	"textsize":"14",
+	"circcolor":"#0fcf65",
+	"textcolor":"#FFF"
+},
+"circ3":{
+	"name":"Police Stations",
+	"circsize":"85",
+	"textsize":"14",
+	"circcolor":"#0f65cf",
+	"textcolor":"#FFF"
+	},
+"circ4":{
+		"name":"Fertilizer",
+		"circsize":"55",
+		"textsize":"14",
+		"circcolor":"#cf0fbf",
+		"textcolor":"#FFF"
+		},
+"circ5":{
+	"name":"Solar Powered Borehole",
+	"circsize":"90",
+	"textsize":"14",
+	"circcolor":"#2977a4",
+	"textcolor":"#FFF"
+	},
+"circ6":{
+	"name":"Vocational Centers",
+	"circsize":"50",
+	"textsize":"14",
+	"circcolor":"#cf0fec",
+	"textcolor":"#FFF"
+	}
+},
+
+"year9":{"name":"2007","numcirc":"6","amount":4462900000000,
+"circ1":{
+	"name":"Primary Health Clinics",
+	"circsize":"75",
+	"textsize":"14",
+	"circcolor":"#e51c5e",
+	"textcolor":"#FFF"
+	},
+"circ2":{
+	"name":"Classrooms",
+	"circsize":"60",
+	"textsize":"14",
+	"circcolor":"#0fcf65",
+	"textcolor":"#FFF"
+},
+"circ3":{
+	"name":"Police Stations",
+	"circsize":"85",
+	"textsize":"14",
+	"circcolor":"#0f65cf",
+	"textcolor":"#FFF"
+	},
+"circ4":{
+		"name":"Fertilizer",
+		"circsize":"55",
+		"textsize":"14",
+		"circcolor":"#cf0fbf",
+		"textcolor":"#FFF"
+		},
+"circ5":{
+	"name":"Solar Powered Borehole",
+	"circsize":"90",
+	"textsize":"14",
+	"circcolor":"#2977a4",
+	"textcolor":"#FFF"
+	},
+"circ6":{
+	"name":"Vocational Centers",
+	"circsize":"50",
+	"textsize":"14",
+	"circcolor":"#cf0fec",
+	"textcolor":"#FFF"
+	}
+},
+
+
+"year10":{"name":"2008","numcirc":"6","amount":6530600000000,
+"circ1":{
+	"name":"Primary Health Clinics",
+	"circsize":"75",
+	"textsize":"14",
+	"circcolor":"#e51c5e",
+	"textcolor":"#FFF"
+	},
+"circ2":{
+	"name":"Classrooms",
+	"circsize":"60",
+	"textsize":"14",
+	"circcolor":"#0fcf65",
+	"textcolor":"#FFF"
+},
+"circ3":{
+	"name":"Police Stations",
+	"circsize":"85",
+	"textsize":"14",
+	"circcolor":"#0f65cf",
+	"textcolor":"#FFF"
+	},
+"circ4":{
+		"name":"Fertilizer",
+		"circsize":"55",
+		"textsize":"14",
+		"circcolor":"#cf0fbf",
+		"textcolor":"#FFF"
+		},
+"circ5":{
+	"name":"Solar Powered Borehole",
+	"circsize":"90",
+	"textsize":"14",
+	"circcolor":"#2977a4",
+	"textcolor":"#FFF"
+	},
+"circ6":{
+	"name":"Vocational Centers",
+	"circsize":"50",
+	"textsize":"14",
+	"circcolor":"#cf0fec",
+	"textcolor":"#FFF"
+	}
+},
+
+
+"year11":{"name":"2009","numcirc":"6", "amount":3191900000000,
+"circ1":{
+	"name":"Primary Health Clinics",
+	"circsize":"75",
+	"textsize":"14",
+	"circcolor":"#e51c5e",
+	"textcolor":"#FFF"
+	},
+"circ2":{
+	"name":"Classrooms",
+	"circsize":"60",
+	"textsize":"14",
+	"circcolor":"#0fcf65",
+	"textcolor":"#FFF"
+},
+"circ3":{
+	"name":"Police Stations",
+	"circsize":"85",
+	"textsize":"14",
+	"circcolor":"#0f65cf",
+	"textcolor":"#FFF"
+	},
+"circ4":{
+		"name":"Fertilizer",
+		"circsize":"55",
+		"textsize":"14",
+		"circcolor":"#cf0fbf",
+		"textcolor":"#FFF"
+		},
+"circ5":{
+	"name":"Solar Powered Borehole",
+	"circsize":"90",
+	"textsize":"14",
+	"circcolor":"#2977a4",
+	"textcolor":"#FFF"
+	},
+"circ6":{
+	"name":"Vocational Centers",
+	"circsize":"50",
+	"textsize":"14",
+	"circcolor":"#cf0fec",
+	"textcolor":"#FFF"
+	}
+},
+
+
+"year12":{"name":"2010","numcirc":"6", "amount":5396100000000,
+"circ1":{
+	"name":"Primary Health Clinics",
+	"circsize":"75",
+	"textsize":"14",
+	"circcolor":"#e51c5e",
+	"textcolor":"#FFF"
+	},
+"circ2":{
+	"name":"Classrooms",
+	"circsize":"60",
+	"textsize":"14",
+	"circcolor":"#0fcf65",
+	"textcolor":"#FFF"
+},
+"circ3":{
+	"name":"Police Stations",
+	"circsize":"85",
+	"textsize":"14",
+	"circcolor":"#0f65cf",
+	"textcolor":"#FFF"
+	},
+"circ4":{
+		"name":"Fertilizer",
+		"circsize":"55",
+		"textsize":"14",
+		"circcolor":"#cf0fbf",
+		"textcolor":"#FFF"
+		},
+"circ5":{
+	"name":"Solar Powered Borehole",
+	"circsize":"90",
+	"textsize":"14",
+	"circcolor":"#2977a4",
+	"textcolor":"#FFF"
+	},
+"circ6":{
+	"name":"Vocational Centers",
+	"circsize":"50",
+	"textsize":"14",
+	"circcolor":"#cf0fec",
+	"textcolor":"#FFF"
+	}
+},
+
+"year13":{"name":"2011","numcirc":"6","amount":8879000000000,
+"circ1":{
+	"name":"Primary Health Clinics",
+	"circsize":"90",
+	"textsize":"14",
+	"circcolor":"#20CCAC",
+	"textcolor":"#FFF"
+	},
+"circ2":{
+	"name":"Classrooms",
+	"circsize":"50",
+	"textsize":"14",
+	"circcolor":"#730000",
+	"textcolor":"#FFF"
+},
+"circ3":{
+	"name":"Police Stations",
+	"circsize":"50",
+	"textsize":"14",
+	"circcolor":"#DA8D00",
+	"textcolor":"#FFF"
+	},
+"circ4":{
+		"name":"Fertilizer",
+		"circsize":"80",
+		"textsize":"14",
+		"circcolor":"#C83729",
+		"textcolor":"#FFF"
+		},
+"circ5":{
+	"name":"Solar Powered Borehole",
+	"circsize":"60",
+	"textsize":"14",
+	"circcolor":"#FF7926",
+	"textcolor":"#FFF"
+	},
+"circ6":{
+	"name":"Vocational Centers",
+	"circsize":"50",
+	"textsize":"14",
+	"circcolor":"#FA7095",
+	"textcolor":"#FFF"
+	}
+},
+
+
+"year14":{"name":"2012","numcirc":"6","amount":8025950000000,
+"circ1":{
+	"name":"Primary Health Clinics",
+	"circsize":"90",
+	"textsize":"14",
+	"circcolor":"#20CCAC",
+	"textcolor":"#FFF"
+	},
+"circ2":{
+	"name":"Classrooms",
+	"circsize":"50",
+	"textsize":"14",
+	"circcolor":"#730000",
+	"textcolor":"#FFF"
+},
+"circ3":{
+	"name":"Police Stations",
+	"circsize":"50",
+	"textsize":"14",
+	"circcolor":"#DA8D00",
+	"textcolor":"#FFF"
+	},
+"circ4":{
+		"name":"Fertilizer",
+		"circsize":"80",
+		"textsize":"14",
+		"circcolor":"#C83729",
+		"textcolor":"#FFF"
+		},
+"circ5":{
+	"name":"Solar Powered Borehole",
+	"circsize":"60",
+	"textsize":"14",
+	"circcolor":"#FF7926",
+	"textcolor":"#FFF"
+	},
+"circ6":{
+	"name":"Vocational Centers",
+	"circsize":"50",
+	"textsize":"14",
+	"circcolor":"#FA7095",
+	"textcolor":"#FFF"
+	}
+}
+
+}
+
+
+
+
